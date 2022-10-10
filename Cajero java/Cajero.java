@@ -1,3 +1,6 @@
+/*
+ * Clase principal
+ */
 public class Cajero {
 
     private Menu menu;
