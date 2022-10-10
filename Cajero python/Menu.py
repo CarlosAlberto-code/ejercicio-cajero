@@ -1,7 +1,7 @@
 class Menu:
 
     def mostrar(self):
-        print("Selecciona una opcion")
+        print("\nSelecciona una opcion")
         print("1.- Ver saldo actual")
         print("2.- Ver historico de movimientos")
         print("3.- Retirar saldo")
@@ -16,8 +16,8 @@ class Menu:
                 if int(entrada) <= 4 and int(entrada) >= 1:
                     error = False
                 else:
-                    print("\n Opcion no valida, ingresa un valor entre 1 y 4.")
+                    print("\nOpcion no valida, ingresa un valor entre 1 y 4.")
             else:
-                print("\n Opcion no valida, ingresa de nuevo")
+                print("\nOpcion no valida, ingresa de nuevo")
         
         return entrada

@@ -49,4 +49,4 @@ class Saldo(object):
         if self.monto > 0:
             self.solicitarMontoARetirar()
         else:
-            print("\n-- Saldo insuficiente")
+            print("\n-- Saldo insuficiente \n")
