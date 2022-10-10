@@ -20,7 +20,7 @@ La opción de histórico deberá mostrar la fecha del movimiento, hora, minuto y
 * Java version 7 o superior.
 * Python 2
 
-# Instrucciones Java
+## Instrucciones Java
 * Clonar el repositorio
 * Acceder a la carpeta Cajero Java con el comando ```cd "Cajero Java"```
 * Compilar todos los archivos .java con el comando ``` javac *.java ```
@@ -28,7 +28,7 @@ La opción de histórico deberá mostrar la fecha del movimiento, hora, minuto y
 * Enjoy!
 
 
-# Instrucciones Python
+## Instrucciones Python
 * Clonar el repositorio
 * Acceder a la carpeta Cajero python con el comando ```cd "Cajero python"```
 * Ejecutar el siguiente comando ``` python inicio.py ```
