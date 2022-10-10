@@ -15,3 +15,14 @@ El saldo inicial deberá ser de 1,000 pesos. Cada que se retire saldo, el saldo 
 Deberá tener la opción de regresar al menú principal o salir. 
 
 La opción de histórico deberá mostrar la fecha del movimiento, hora, minuto y segundo de cuanto fue el retiro hecho así como del saldo que se tenia anteriormente
+
+# Requisitos 🔧
+* Java version 7 o superior.
+* Python 2/3
+
+# Instrucciones Java
+* Clonar el repositorio
+* Acceder a la carpeta Cajero Java con el comando ```cd "Cajero Java"```
+* Compilar todos los archivos .java con el comando ``` javac *.java ```
+* Ejecutar el archivo principal: ``` java Cajero ```
+* Enjoy!
