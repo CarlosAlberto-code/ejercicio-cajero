@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/* Comentario sin importancia */
 public class Menu {
 
     private Opcion[] opciones;
